@@ -1,0 +1,135 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    background-color: rgba(0, 0, 0, 0.568);
+}
+#logoone{
+    width: 100px;
+    height: 65px;
+    margin-left: 50px;
+}
+.navbarone{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 10px;
+}
+.list{
+    margin: 0 42px 0  0;
+}
+.list > a{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+.list > a:hover{
+    color: rgb(199, 171, 15);
+}
+.info{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+.myname{
+    color: orange;
+}
+.pakistan:hover{
+    color: orange;
+    background-color: black;
+    border-radius: 5px;
+}
+.info > a{
+    color: orange;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 10px;
+    position: relative;
+    top: 20px;
+    display: inline-block;
+}
+.info > a:hover{
+    color: rgb(2, 2, 1);
+    background-color: orange;
+    border-radius: 8px;
+}
+.img{
+    width: 250px;
+    height: 300px;
+    position: relative;
+    left: 70%;
+    top: -120px;
+}    
+.img:hover{
+    transform: translateX(40px);
+    transition: all 2s ease-in-out;
+}    
+.i{
+    display: flex;
+    margin-top: -20px;
+}
+.icon{
+    list-style: none;
+    margin: 20px;
+    padding: 10px;
+    transform: scale(2);
+
+}
+.icon:hover{
+    transform: scale(2.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
